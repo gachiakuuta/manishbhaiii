@@ -11,7 +11,7 @@
   <br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,mongodb,vscode,vercel,arch&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,discord,windows,vscode,apple,arch&theme=dark" />
   </a>
   <br/><br/>
 
